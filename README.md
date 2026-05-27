@@ -1,5 +1,13 @@
 ## Running DeepSeek R1 Distill Qwen 1.5B Model on Reasoning Prompts
 
+### Overview
+
+The main motive of this project is to run an open-weight reasoning model on a small set of reasoning-based prompts and observe how it responds.
+
+For this, the DeepSeek-R1-Distill-Qwen-1.5B model was used because it is lightweight and can be run locally. The project uses five different reasoning prompts. After running the prompts, the model’s answers are compared with the expected answers to check whether it gives correct and stable responses
+
+Overall, this project gives a simple idea of how a small open weight model performs on common reasoning tasks 🧠
+
 ### Model Used
 
 **Model:** DeepSeek-R1-Distill-Qwen-1.5B
